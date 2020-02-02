@@ -42,7 +42,7 @@ def monopoly
     }
   }
 }
-	}
+	
 
 end
 
