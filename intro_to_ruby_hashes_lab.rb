@@ -20,7 +20,7 @@ def monopoly
       :four_pieces_owned=>200
     },
 	  
-{
+
 	
 
 def monopoly_with_first_tier
